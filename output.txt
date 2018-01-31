@@ -1,0 +1,580 @@
+Start state [3, 1, 2, 4, 0, 5, 6, 7, 8]
+a* > h = 0 2 nodes expanded in  0.00015483 s
+a* > Manhattan 2 nodes expanded in  0.00015498 s
+a* > Euclidean 2 nodes expanded in  0.00019199 s
+a* > Misplaced tiles 10 nodes expanded in  0.00877069 s
+
+ida* > h = 0 10 nodes expanded in  0.00022592 s
+ida* > Manhattan 10 nodes expanded in  0.00021800 s
+ida* > Euclidean 10 nodes expanded in  0.00025725 s
+ida* > Misplaced tiles 10 nodes expanded in  0.00117420 s
+
+Start state [1, 2, 0, 4, 8, 3, 7, 6, 5]
+a* > h = 0 20 nodes expanded in  1.03776334 s
+a* > Manhattan 20 nodes expanded in  0.06347172 s
+a* > Euclidean 20 nodes expanded in  0.04733376 s
+a* > Misplaced tiles 28 nodes expanded in  15.66652274 s
+
+ida* > h = 0 28 nodes expanded in  1.18621707 s
+ida* > Manhattan 28 nodes expanded in  1.76509812 s
+ida* > Euclidean 28 nodes expanded in  26.63045239 s
+ida* > Misplaced tiles 28 nodes expanded in  0.79611658 s
+
+Start state [1, 3, 5, 7, 2, 6, 8, 0, 4]
+a* > h = 0 28 nodes expanded in  2.37207187 s
+a* > Manhattan 28 nodes expanded in  0.10577174 s
+a* > Euclidean 28 nodes expanded in  0.05886474 s
+a* > Misplaced tiles 30 nodes expanded in  19.23183269 s
+
+ida* > h = 0 30 nodes expanded in  1.45959460 s
+ida* > Manhattan 30 nodes expanded in  2.72914703 s
+ida* > Euclidean 30 nodes expanded in  63.31747508 s
+ida* > Misplaced tiles 30 nodes expanded in  0.65905786 s
+
+Start state [1, 2, 3, 4, 6, 5, 7, 8, 0]
+This puzzle cannot be solved
+This puzzle cannot be solved
+Start state [0, 4, 1, 5, 3, 2, 7, 8, 6]
+a* > h = 0 30 nodes expanded in  2.12184450 s
+a* > Manhattan 30 nodes expanded in  0.11852891 s
+a* > Euclidean 30 nodes expanded in  0.10726926 s
+a* > Misplaced tiles 30 nodes expanded in  15.90167311 s
+
+ida* > h = 0 30 nodes expanded in  1.64454527 s
+ida* > Manhattan 34 nodes expanded in  5.37690712 s
+ida* > Euclidean 34 nodes expanded in  165.04616852 s
+ida* > Misplaced tiles 34 nodes expanded in  0.90202970 s
+
+Start state [8, 6, 7, 2, 5, 4, 1, 3, 0]
+This puzzle cannot be solved
+This puzzle cannot be solved
+Start state [1, 4, 3, 7, 0, 8, 6, 5, 2]
+a* > h = 0 34 nodes expanded in  0.73108209 s
+a* > Manhattan 34 nodes expanded in  0.03989968 s
+a* > Euclidean 34 nodes expanded in  0.02030717 s
+a* > Misplaced tiles 34 nodes expanded in  15.29814516 s
+
+ida* > h = 0 34 nodes expanded in  1.01240193 s
+ida* > Manhattan 34 nodes expanded in  1.43934710 s
+ida* > Euclidean 34 nodes expanded in  6.61842412 s
+ida* > Misplaced tiles 34 nodes expanded in  0.89474859 s
+
+Start state [6, 0, 8, 4, 3, 5, 1, 2, 7]
+a* > h = 0 34 nodes expanded in  4.46976559 s
+a* > Manhattan 34 nodes expanded in  0.22015713 s
+a* > Euclidean 34 nodes expanded in  0.30442352 s
+a* > Misplaced tiles 34 nodes expanded in  17.70579238 s
+
+ida* > h = 0 34 nodes expanded in  2.94737913 s
+ida* > Manhattan 34 nodes expanded in  1.73855718 s
+ida* > Euclidean 34 nodes expanded in  29.04872442 s
+ida* > Misplaced tiles 34 nodes expanded in  2.63117403 s
+
+Start state [2, 0, 8, 1, 3, 5, 4, 6, 7]
+a* > h = 0 34 nodes expanded in  0.13419359 s
+a* > Manhattan 34 nodes expanded in  0.00799375 s
+a* > Euclidean 34 nodes expanded in  0.00486309 s
+a* > Misplaced tiles 34 nodes expanded in  7.51391728 s
+
+ida* > h = 0 34 nodes expanded in  0.21768334 s
+ida* > Manhattan 34 nodes expanded in  0.08873737 s
+ida* > Euclidean 34 nodes expanded in  0.31426391 s
+ida* > Misplaced tiles 34 nodes expanded in  0.13959156 s
+
+Start state [1, 0, 3, 2, 4, 5, 6, 7, 8]
+This puzzle cannot be solved
+This puzzle cannot be solved
+Start state [8, 7, 2, 1, 5, 0, 4, 6, 3]
+a* > h = 0 34 nodes expanded in  4.61804560 s
+a* > Manhattan 34 nodes expanded in  0.21142870 s
+a* > Euclidean 34 nodes expanded in  0.30260497 s
+a* > Misplaced tiles 34 nodes expanded in  15.91888786 s
+
+ida* > h = 0 34 nodes expanded in  3.03257470 s
+ida* > Manhattan 39 nodes expanded in  10.04505874 s
+ida* > Euclidean 39 nodes expanded in  359.84012511 s
+ida* > Misplaced tiles 39 nodes expanded in  15.04397236 s
+
+Start state [6, 3, 8, 5, 4, 1, 7, 2, 0]
+a* > h = 0 39 nodes expanded in  2.18695434 s
+a* > Manhattan 39 nodes expanded in  0.08940288 s
+a* > Euclidean 39 nodes expanded in  0.05587300 s
+a* > Misplaced tiles 39 nodes expanded in  15.86218707 s
+
+ida* > h = 0 39 nodes expanded in  1.61184448 s
+ida* > Manhattan 39 nodes expanded in  1.61504128 s
+ida* > Euclidean 39 nodes expanded in  33.38959117 s
+ida* > Misplaced tiles 39 nodes expanded in  2.43032827 s
+
+Start state [4, 1, 2, 3, 0, 6, 5, 7, 8]
+a* > h = 0 39 nodes expanded in  1.33426040 s
+a* > Manhattan 39 nodes expanded in  0.08160160 s
+a* > Euclidean 39 nodes expanded in  0.07370772 s
+a* > Misplaced tiles 39 nodes expanded in  17.82897775 s
+
+ida* > h = 0 39 nodes expanded in  1.37640290 s
+ida* > Manhattan 39 nodes expanded in  2.70666649 s
+ida* > Euclidean 39 nodes expanded in  51.69246632 s
+ida* > Misplaced tiles 39 nodes expanded in  4.05774473 s
+
+Start state [1, 2, 3, 4, 5, 6, 7, 8, 0]
+a* > h = 0 39 nodes expanded in  2.47893124 s
+a* > Manhattan 39 nodes expanded in  0.13292724 s
+a* > Euclidean 39 nodes expanded in  0.10812089 s
+a* > Misplaced tiles 39 nodes expanded in  16.71167520 s
+
+ida* > h = 0 39 nodes expanded in  1.79246634 s
+ida* > Manhattan 39 nodes expanded in  7.88604425 s
+ida* > Euclidean 39 nodes expanded in  232.78805638 s
+ida* > Misplaced tiles 39 nodes expanded in  1.47507325 s
+
+Start state [1, 3, 6, 5, 2, 8, 4, 0, 7]
+a* > h = 0 39 nodes expanded in  4.63422823 s
+a* > Manhattan 39 nodes expanded in  0.27009163 s
+a* > Euclidean 39 nodes expanded in  0.30075601 s
+a* > Misplaced tiles 39 nodes expanded in  16.87090056 s
+
+ida* > h = 0 39 nodes expanded in  2.95919466 s
+ida* > Manhattan 39 nodes expanded in  7.94529886 s
+ida* > Euclidean 39 nodes expanded in  273.79163340 s
+ida* > Misplaced tiles 39 nodes expanded in  0.39802402 s
+
+Start state [1, 8, 5, 0, 2, 4, 3, 6, 7]
+a* > h = 0 39 nodes expanded in  0.48900347 s
+a* > Manhattan 39 nodes expanded in  0.02588134 s
+a* > Euclidean 39 nodes expanded in  0.01774247 s
+a* > Misplaced tiles 39 nodes expanded in  13.26048517 s
+
+ida* > h = 0 39 nodes expanded in  0.53886985 s
+ida* > Manhattan 39 nodes expanded in  0.32652876 s
+ida* > Euclidean 39 nodes expanded in  3.02122611 s
+ida* > Misplaced tiles 39 nodes expanded in  0.09736517 s
+
+Start state [5, 3, 6, 4, 0, 7, 1, 8, 2]
+a* > h = 0 39 nodes expanded in  4.52698905 s
+a* > Manhattan 39 nodes expanded in  0.14842411 s
+a* > Euclidean 39 nodes expanded in  0.15836724 s
+a* > Misplaced tiles 39 nodes expanded in  16.56543868 s
+
+ida* > h = 0 39 nodes expanded in  2.86084209 s
+ida* > Manhattan 39 nodes expanded in  4.04018089 s
+ida* > Euclidean 39 nodes expanded in  24.31634789 s
+ida* > Misplaced tiles 39 nodes expanded in  0.10116328 s
+
+Start state [1, 2, 3, 4, 5, 0, 7, 8, 6]
+a* > h = 0 39 nodes expanded in  2.09871019 s
+a* > Manhattan 39 nodes expanded in  0.10621782 s
+a* > Euclidean 39 nodes expanded in  0.07325357 s
+a* > Misplaced tiles 39 nodes expanded in  18.20022833 s
+
+ida* > h = 0 39 nodes expanded in  1.68076651 s
+ida* > Manhattan 39 nodes expanded in  6.57481090 s
+ida* > Euclidean 39 nodes expanded in  183.87465976 s
+ida* > Misplaced tiles 39 nodes expanded in  1.09762525 s
+
+Start state [7, 0, 2, 8, 5, 3, 6, 4, 1]
+This puzzle cannot be solved
+This puzzle cannot be solved
+Start state [0, 1, 2, 4, 5, 3, 7, 8, 6]
+a* > h = 0 39 nodes expanded in  2.37415034 s
+a* > Manhattan 39 nodes expanded in  0.12739910 s
+a* > Euclidean 39 nodes expanded in  0.10897407 s
+a* > Misplaced tiles 39 nodes expanded in  17.32334804 s
+
+ida* > h = 0 39 nodes expanded in  1.91433713 s
+ida* > Manhattan 39 nodes expanded in  10.88588089 s
+ida* > Euclidean 39 nodes expanded in  296.08508099 s
+ida* > Misplaced tiles 39 nodes expanded in  12.29244722 s
+
+Start state [1, 2, 3, 4, 0, 5, 7, 8, 6]
+a* > h = 0 39 nodes expanded in  1.57134223 s
+a* > Manhattan 39 nodes expanded in  0.08418459 s
+a* > Euclidean 39 nodes expanded in  0.05467428 s
+a* > Misplaced tiles 39 nodes expanded in  16.33954513 s
+
+ida* > h = 0 39 nodes expanded in  1.36795751 s
+ida* > Manhattan 39 nodes expanded in  4.85078917 s
+ida* > Euclidean 39 nodes expanded in  124.41268015 s
+ida* > Misplaced tiles 39 nodes expanded in  7.14885411 s
+
+Start state [1, 2, 3, 0, 4, 5, 7, 8, 6]
+a* > h = 0 39 nodes expanded in  1.00657876 s
+a* > Manhattan 39 nodes expanded in  0.05037304 s
+a* > Euclidean 39 nodes expanded in  0.02740254 s
+a* > Misplaced tiles 39 nodes expanded in  14.55579487 s
+
+ida* > h = 0 39 nodes expanded in  0.90215369 s
+ida* > Manhattan 39 nodes expanded in  0.35455519 s
+ida* > Euclidean 39 nodes expanded in  2.07355041 s
+ida* > Misplaced tiles 39 nodes expanded in  0.57225562 s
+
+Start state [4, 3, 1, 0, 7, 2, 8, 5, 6]
+a* > h = 0 39 nodes expanded in  0.83403688 s
+a* > Manhattan 39 nodes expanded in  0.04529862 s
+a* > Euclidean 39 nodes expanded in  0.02584738 s
+a* > Misplaced tiles 39 nodes expanded in  18.45131307 s
+
+ida* > h = 0 39 nodes expanded in  0.72276964 s
+ida* > Manhattan 39 nodes expanded in  1.80561544 s
+ida* > Euclidean 39 nodes expanded in  3.68258140 s
+ida* > Misplaced tiles 39 nodes expanded in  0.06184927 s
+
+Start state [1, 6, 4, 0, 3, 5, 8, 2, 7]
+a* > h = 0 39 nodes expanded in  2.25840040 s
+a* > Manhattan 39 nodes expanded in  0.10769305 s
+a* > Euclidean 39 nodes expanded in  0.06390009 s
+a* > Misplaced tiles 39 nodes expanded in  18.35260730 s
+
+ida* > h = 0 39 nodes expanded in  1.94948593 s
+ida* > Manhattan 39 nodes expanded in  2.45946815 s
+ida* > Euclidean 39 nodes expanded in  37.78323441 s
+ida* > Misplaced tiles 39 nodes expanded in  2.84720888 s
+
+Start state [3, 4, 6, 2, 0, 8, 1, 7, 5]
+a* > h = 0 39 nodes expanded in  4.01919763 s
+a* > Manhattan 39 nodes expanded in  0.19885041 s
+a* > Euclidean 39 nodes expanded in  0.22096891 s
+a* > Misplaced tiles 39 nodes expanded in  17.53456524 s
+
+ida* > h = 0 39 nodes expanded in  2.88921335 s
+ida* > Manhattan 39 nodes expanded in  4.26877734 s
+ida* > Euclidean 39 nodes expanded in  73.13384019 s
+ida* > Misplaced tiles 39 nodes expanded in  4.36466623 s
+
+Start state [1, 2, 3, 0, 4, 8, 7, 6, 5]
+a* > h = 0 39 nodes expanded in  3.54303254 s
+a* > Manhattan 39 nodes expanded in  0.27940637 s
+a* > Euclidean 39 nodes expanded in  0.29558696 s
+a* > Misplaced tiles 39 nodes expanded in  17.27101138 s
+
+ida* > h = 0 39 nodes expanded in  2.36596775 s
+ida* > Manhattan 39 nodes expanded in  1.43187188 s
+ida* > Euclidean 39 nodes expanded in  20.32376594 s
+ida* > Misplaced tiles 39 nodes expanded in  1.92799334 s
+
+Start state [0, 4, 3, 2, 1, 6, 7, 5, 8]
+a* > h = 0 39 nodes expanded in  4.08657905 s
+a* > Manhattan 39 nodes expanded in  0.20440755 s
+a* > Euclidean 39 nodes expanded in  0.19110454 s
+a* > Misplaced tiles 39 nodes expanded in  17.99183410 s
+
+ida* > h = 0 39 nodes expanded in  2.53414340 s
+ida* > Manhattan 39 nodes expanded in  4.00869156 s
+ida* > Euclidean 39 nodes expanded in  102.10481882 s
+ida* > Misplaced tiles 39 nodes expanded in  6.15688130 s
+
+Start state [8, 1, 2, 0, 4, 3, 7, 6, 5]
+This puzzle cannot be solved
+This puzzle cannot be solved
+Start state [1, 0, 2, 4, 6, 3, 7, 5, 8]
+a* > h = 0 39 nodes expanded in  0.36497568 s
+a* > Manhattan 39 nodes expanded in  0.02270967 s
+a* > Euclidean 39 nodes expanded in  0.01631466 s
+a* > Misplaced tiles 39 nodes expanded in  11.96063456 s
+
+ida* > h = 0 39 nodes expanded in  0.46668315 s
+ida* > Manhattan 39 nodes expanded in  1.89515738 s
+ida* > Euclidean 39 nodes expanded in  33.69497854 s
+ida* > Misplaced tiles 39 nodes expanded in  2.75250115 s
+
+Start state [6, 5, 3, 4, 1, 7, 0, 2, 8]
+a* > h = 0 39 nodes expanded in  5.01016218 s
+a* > Manhattan 39 nodes expanded in  0.29016297 s
+a* > Euclidean 39 nodes expanded in  0.41178320 s
+a* > Misplaced tiles 39 nodes expanded in  20.87122613 s
+
+ida* > h = 0 39 nodes expanded in  4.29567293 s
+ida* > Manhattan 39 nodes expanded in  6.42287127 s
+ida* > Euclidean 39 nodes expanded in  167.10238073 s
+ida* > Misplaced tiles 39 nodes expanded in  7.87676348 s
+
+Start state [6, 4, 7, 8, 5, 0, 3, 2, 1]
+a* > h = 0 39 nodes expanded in  4.44913346 s
+a* > Manhattan 39 nodes expanded in  0.18190959 s
+a* > Euclidean 39 nodes expanded in  0.24999777 s
+a* > Misplaced tiles 39 nodes expanded in  16.41448763 s
+
+ida* > h = 0 39 nodes expanded in  3.04172373 s
+ida* > Manhattan 39 nodes expanded in  5.23823269 s
+ida* > Euclidean 39 nodes expanded in  195.65455071 s
+ida* > Misplaced tiles 39 nodes expanded in  0.27365738 s
+
+Start state [5, 2, 1, 4, 8, 3, 7, 6, 0]
+a* > h = 0 39 nodes expanded in  4.90478548 s
+a* > Manhattan 39 nodes expanded in  0.39928514 s
+a* > Euclidean 39 nodes expanded in  0.57297959 s
+a* > Misplaced tiles 39 nodes expanded in  16.69117055 s
+
+ida* > h = 0 39 nodes expanded in  3.25987760 s
+ida* > Manhattan 39 nodes expanded in  7.77450474 s
+ida* > Euclidean 39 nodes expanded in  265.23596379 s
+ida* > Misplaced tiles 39 nodes expanded in  1.32458905 s
+
+Start state [4, 8, 7, 5, 3, 1, 0, 6, 2]
+a* > h = 0 39 nodes expanded in  3.96656049 s
+a* > Manhattan 39 nodes expanded in  0.16674004 s
+a* > Euclidean 39 nodes expanded in  0.14072912 s
+a* > Misplaced tiles 39 nodes expanded in  18.14270238 s
+
+ida* > h = 0 39 nodes expanded in  2.33121600 s
+ida* > Manhattan 39 nodes expanded in  1.40017213 s
+ida* > Euclidean 39 nodes expanded in  39.56823937 s
+ida* > Misplaced tiles 39 nodes expanded in  0.05670114 s
+
+Start state [8, 3, 5, 6, 4, 2, 1, 0, 7]
+a* > h = 0 39 nodes expanded in  3.10344402 s
+a* > Manhattan 39 nodes expanded in  0.15007538 s
+a* > Euclidean 39 nodes expanded in  0.14118152 s
+a* > Misplaced tiles 39 nodes expanded in  16.87319222 s
+
+ida* > h = 0 39 nodes expanded in  2.21527330 s
+ida* > Manhattan 39 nodes expanded in  5.45081104 s
+ida* > Euclidean 39 nodes expanded in  149.34345633 s
+ida* > Misplaced tiles 39 nodes expanded in  7.93359656 s
+
+Start state [7, 4, 3, 2, 8, 6, 0, 5, 1]
+a* > h = 0 39 nodes expanded in  3.69375211 s
+a* > Manhattan 39 nodes expanded in  0.09539716 s
+a* > Euclidean 39 nodes expanded in  0.06510507 s
+a* > Misplaced tiles 39 nodes expanded in  16.54776787 s
+
+ida* > h = 0 39 nodes expanded in  2.64620719 s
+ida* > Manhattan 39 nodes expanded in  6.15746936 s
+ida* > Euclidean 39 nodes expanded in  235.94325016 s
+ida* > Misplaced tiles 39 nodes expanded in  0.92651821 s
+
+Start state [8, 6, 7, 2, 0, 4, 3, 5, 1]
+a* > h = 0 39 nodes expanded in  4.93745823 s
+a* > Manhattan 39 nodes expanded in  0.22290780 s
+a* > Euclidean 39 nodes expanded in  0.40764254 s
+a* > Misplaced tiles 39 nodes expanded in  14.24332675 s
+
+ida* > h = 0 39 nodes expanded in  3.34223387 s
+ida* > Manhattan 39 nodes expanded in  9.97582106 s
+ida* > Euclidean 39 nodes expanded in  382.20616752 s
+ida* > Misplaced tiles 39 nodes expanded in  0.84931198 s
+
+Start state [0, 4, 3, 2, 1, 6, 7, 5, 8]
+a* > h = 0 39 nodes expanded in  4.09322756 s
+a* > Manhattan 39 nodes expanded in  0.29620662 s
+a* > Euclidean 39 nodes expanded in  0.18409950 s
+a* > Misplaced tiles 39 nodes expanded in  18.97432475 s
+
+ida* > h = 0 39 nodes expanded in  2.66662816 s
+ida* > Manhattan 39 nodes expanded in  4.12810618 s
+ida* > Euclidean 39 nodes expanded in  108.52898368 s
+ida* > Misplaced tiles 39 nodes expanded in  6.04419354 s
+
+Start state [1, 2, 3, 4, 5, 0, 7, 8, 6]
+a* > h = 0 39 nodes expanded in  1.96527501 s
+a* > Manhattan 39 nodes expanded in  0.10016849 s
+a* > Euclidean 39 nodes expanded in  0.07475672 s
+a* > Misplaced tiles 39 nodes expanded in  16.24122037 s
+
+ida* > h = 0 39 nodes expanded in  1.67587210 s
+ida* > Manhattan 39 nodes expanded in  6.08372335 s
+ida* > Euclidean 39 nodes expanded in  179.65024711 s
+ida* > Misplaced tiles 39 nodes expanded in  1.08590094 s
+
+Start state [1, 2, 3, 4, 0, 5, 7, 8, 6]
+a* > h = 0 39 nodes expanded in  1.58071910 s
+a* > Manhattan 39 nodes expanded in  0.07319126 s
+a* > Euclidean 39 nodes expanded in  0.05001318 s
+a* > Misplaced tiles 39 nodes expanded in  16.16284472 s
+
+ida* > h = 0 39 nodes expanded in  1.23066501 s
+ida* > Manhattan 39 nodes expanded in  4.63301563 s
+ida* > Euclidean 39 nodes expanded in  121.48032202 s
+ida* > Misplaced tiles 39 nodes expanded in  7.09913538 s
+
+Start state [8, 6, 7, 2, 5, 4, 1, 3, 0]
+This puzzle cannot be solved
+This puzzle cannot be solved
+Start state [1, 2, 0, 4, 8, 3, 7, 6, 5]
+a* > h = 0 39 nodes expanded in  1.14398351 s
+a* > Manhattan 39 nodes expanded in  0.06371826 s
+a* > Euclidean 39 nodes expanded in  0.04972849 s
+a* > Misplaced tiles 39 nodes expanded in  15.88866231 s
+
+ida* > h = 0 39 nodes expanded in  1.13844423 s
+ida* > Manhattan 39 nodes expanded in  1.75628105 s
+ida* > Euclidean 39 nodes expanded in  25.69064542 s
+ida* > Misplaced tiles 39 nodes expanded in  0.62895389 s
+
+Start state [1, 0, 2, 4, 6, 3, 7, 5, 8]
+a* > h = 0 39 nodes expanded in  0.32820838 s
+a* > Manhattan 39 nodes expanded in  0.02033010 s
+a* > Euclidean 39 nodes expanded in  0.01650575 s
+a* > Misplaced tiles 39 nodes expanded in  11.73351975 s
+
+ida* > h = 0 39 nodes expanded in  0.55487725 s
+ida* > Manhattan 39 nodes expanded in  1.90937736 s
+ida* > Euclidean 39 nodes expanded in  33.48617017 s
+ida* > Misplaced tiles 39 nodes expanded in  2.77442414 s
+
+Start state [1, 2, 3, 4, 6, 5, 7, 8, 0]
+This puzzle cannot be solved
+This puzzle cannot be solved
+Start state [0, 1, 2, 4, 5, 3, 7, 8, 6]
+a* > h = 0 39 nodes expanded in  2.17892338 s
+a* > Manhattan 39 nodes expanded in  0.11925577 s
+a* > Euclidean 39 nodes expanded in  0.10758060 s
+a* > Misplaced tiles 39 nodes expanded in  15.70272747 s
+
+ida* > h = 0 39 nodes expanded in  1.85357404 s
+ida* > Manhattan 39 nodes expanded in  10.21510852 s
+ida* > Euclidean 39 nodes expanded in  373.50664764 s
+ida* > Misplaced tiles 39 nodes expanded in  14.53592644 s
+
+Start state [1, 2, 3, 4, 5, 6, 7, 8, 0]
+a* > h = 0 39 nodes expanded in  2.59542697 s
+a* > Manhattan 39 nodes expanded in  0.12648465 s
+a* > Euclidean 39 nodes expanded in  0.10154870 s
+a* > Misplaced tiles 39 nodes expanded in  17.83437242 s
+
+ida* > h = 0 39 nodes expanded in  1.73513545 s
+ida* > Manhattan 39 nodes expanded in  7.97322167 s
+ida* > Euclidean 39 nodes expanded in  226.76123054 s
+ida* > Misplaced tiles 39 nodes expanded in  1.36926909 s
+
+Start state [7, 0, 2, 8, 5, 3, 6, 4, 1]
+This puzzle cannot be solved
+This puzzle cannot be solved
+Start state [8, 1, 2, 0, 4, 3, 7, 6, 5]
+This puzzle cannot be solved
+This puzzle cannot be solved
+Start state [1, 2, 3, 0, 4, 8, 7, 6, 5]
+a* > h = 0 39 nodes expanded in  3.41588316 s
+a* > Manhattan 39 nodes expanded in  0.19684434 s
+a* > Euclidean 39 nodes expanded in  0.20537008 s
+a* > Misplaced tiles 39 nodes expanded in  15.72081487 s
+
+ida* > h = 0 39 nodes expanded in  2.19080933 s
+ida* > Manhattan 39 nodes expanded in  1.38792584 s
+ida* > Euclidean 39 nodes expanded in  19.77927678 s
+ida* > Misplaced tiles 39 nodes expanded in  1.91302866 s
+
+Start state [1, 2, 3, 0, 4, 5, 7, 8, 6]
+a* > h = 0 39 nodes expanded in  0.94715350 s
+a* > Manhattan 39 nodes expanded in  0.04507575 s
+a* > Euclidean 39 nodes expanded in  0.02909580 s
+a* > Misplaced tiles 39 nodes expanded in  13.79254703 s
+
+ida* > h = 0 39 nodes expanded in  0.81664424 s
+ida* > Manhattan 39 nodes expanded in  0.34060505 s
+ida* > Euclidean 39 nodes expanded in  1.93568368 s
+ida* > Misplaced tiles 39 nodes expanded in  0.46379428 s
+
+Start state [1, 0, 3, 2, 4, 5, 6, 7, 8]
+This puzzle cannot be solved
+This puzzle cannot be solved
+A*
++-----------------------------+----+------------+----+------------+----+------------+----+-------------+
+|           Start A*          | N0 |     t0     | N1 |     t1     | N2 |     t2     | N3 |      t3     |
++-----------------------------+----+------------+----+------------+----+------------+----+-------------+
+| [3, 1, 2, 4, 0, 5, 6, 7, 8] | 2  | 0.00015483 | 2  | 0.00015498 | 2  | 0.00019199 | 10 |  0.00877069 |
+| [1, 2, 0, 4, 8, 3, 7, 6, 5] | 20 | 1.03776334 | 20 | 0.06347172 | 20 | 0.04733376 | 28 | 15.66652274 |
+| [1, 3, 5, 7, 2, 6, 8, 0, 4] | 28 | 2.37207187 | 28 | 0.10577174 | 28 | 0.05886474 | 30 | 19.23183269 |
+| [1, 2, 3, 4, 6, 5, 7, 8, 0] | -1 |     -1     | -1 |     -1     | -1 |     -1     | -1 |      -1     |
+| [0, 4, 1, 5, 3, 2, 7, 8, 6] | 30 | 2.12184450 | 30 | 0.11852891 | 30 | 0.10726926 | 30 | 15.90167311 |
+| [8, 6, 7, 2, 5, 4, 1, 3, 0] | -1 |     -1     | -1 |     -1     | -1 |     -1     | -1 |      -1     |
+| [1, 4, 3, 7, 0, 8, 6, 5, 2] | 34 | 0.73108209 | 34 | 0.03989968 | 34 | 0.02030717 | 34 | 15.29814516 |
+| [6, 0, 8, 4, 3, 5, 1, 2, 7] | 34 | 4.46976559 | 34 | 0.22015713 | 34 | 0.30442352 | 34 | 17.70579238 |
+| [2, 0, 8, 1, 3, 5, 4, 6, 7] | 34 | 0.13419359 | 34 | 0.00799375 | 34 | 0.00486309 | 34 |  7.51391728 |
+| [1, 0, 3, 2, 4, 5, 6, 7, 8] | -1 |     -1     | -1 |     -1     | -1 |     -1     | -1 |      -1     |
+| [8, 7, 2, 1, 5, 0, 4, 6, 3] | 34 | 4.61804560 | 34 | 0.21142870 | 34 | 0.30260497 | 34 | 15.91888786 |
+| [6, 3, 8, 5, 4, 1, 7, 2, 0] | 39 | 2.18695434 | 39 | 0.08940288 | 39 | 0.05587300 | 39 | 15.86218707 |
+| [4, 1, 2, 3, 0, 6, 5, 7, 8] | 39 | 1.33426040 | 39 | 0.08160160 | 39 | 0.07370772 | 39 | 17.82897775 |
+| [1, 2, 3, 4, 5, 6, 7, 8, 0] | 39 | 2.47893124 | 39 | 0.13292724 | 39 | 0.10812089 | 39 | 16.71167520 |
+| [1, 3, 6, 5, 2, 8, 4, 0, 7] | 39 | 4.63422823 | 39 | 0.27009163 | 39 | 0.30075601 | 39 | 16.87090056 |
+| [1, 8, 5, 0, 2, 4, 3, 6, 7] | 39 | 0.48900347 | 39 | 0.02588134 | 39 | 0.01774247 | 39 | 13.26048517 |
+| [5, 3, 6, 4, 0, 7, 1, 8, 2] | 39 | 4.52698905 | 39 | 0.14842411 | 39 | 0.15836724 | 39 | 16.56543868 |
+| [1, 2, 3, 4, 5, 0, 7, 8, 6] | 39 | 2.09871019 | 39 | 0.10621782 | 39 | 0.07325357 | 39 | 18.20022833 |
+| [7, 0, 2, 8, 5, 3, 6, 4, 1] | -1 |     -1     | -1 |     -1     | -1 |     -1     | -1 |      -1     |
+| [0, 1, 2, 4, 5, 3, 7, 8, 6] | 39 | 2.37415034 | 39 | 0.12739910 | 39 | 0.10897407 | 39 | 17.32334804 |
+| [1, 2, 3, 4, 0, 5, 7, 8, 6] | 39 | 1.57134223 | 39 | 0.08418459 | 39 | 0.05467428 | 39 | 16.33954513 |
+| [1, 2, 3, 0, 4, 5, 7, 8, 6] | 39 | 1.00657876 | 39 | 0.05037304 | 39 | 0.02740254 | 39 | 14.55579487 |
+| [4, 3, 1, 0, 7, 2, 8, 5, 6] | 39 | 0.83403688 | 39 | 0.04529862 | 39 | 0.02584738 | 39 | 18.45131307 |
+| [1, 6, 4, 0, 3, 5, 8, 2, 7] | 39 | 2.25840040 | 39 | 0.10769305 | 39 | 0.06390009 | 39 | 18.35260730 |
+| [3, 4, 6, 2, 0, 8, 1, 7, 5] | 39 | 4.01919763 | 39 | 0.19885041 | 39 | 0.22096891 | 39 | 17.53456524 |
+| [1, 2, 3, 0, 4, 8, 7, 6, 5] | 39 | 3.54303254 | 39 | 0.27940637 | 39 | 0.29558696 | 39 | 17.27101138 |
+| [0, 4, 3, 2, 1, 6, 7, 5, 8] | 39 | 4.08657905 | 39 | 0.20440755 | 39 | 0.19110454 | 39 | 17.99183410 |
+| [8, 1, 2, 0, 4, 3, 7, 6, 5] | -1 |     -1     | -1 |     -1     | -1 |     -1     | -1 |      -1     |
+| [1, 0, 2, 4, 6, 3, 7, 5, 8] | 39 | 0.36497568 | 39 | 0.02270967 | 39 | 0.01631466 | 39 | 11.96063456 |
+| [6, 5, 3, 4, 1, 7, 0, 2, 8] | 39 | 5.01016218 | 39 | 0.29016297 | 39 | 0.41178320 | 39 | 20.87122613 |
+| [6, 4, 7, 8, 5, 0, 3, 2, 1] | 39 | 4.44913346 | 39 | 0.18190959 | 39 | 0.24999777 | 39 | 16.41448763 |
+| [5, 2, 1, 4, 8, 3, 7, 6, 0] | 39 | 4.90478548 | 39 | 0.39928514 | 39 | 0.57297959 | 39 | 16.69117055 |
+| [4, 8, 7, 5, 3, 1, 0, 6, 2] | 39 | 3.96656049 | 39 | 0.16674004 | 39 | 0.14072912 | 39 | 18.14270238 |
+| [8, 3, 5, 6, 4, 2, 1, 0, 7] | 39 | 3.10344402 | 39 | 0.15007538 | 39 | 0.14118152 | 39 | 16.87319222 |
+| [7, 4, 3, 2, 8, 6, 0, 5, 1] | 39 | 3.69375211 | 39 | 0.09539716 | 39 | 0.06510507 | 39 | 16.54776787 |
+| [8, 6, 7, 2, 0, 4, 3, 5, 1] | 39 | 4.93745823 | 39 | 0.22290780 | 39 | 0.40764254 | 39 | 14.24332675 |
+| [0, 4, 3, 2, 1, 6, 7, 5, 8] | 39 | 4.09322756 | 39 | 0.29620662 | 39 | 0.18409950 | 39 | 18.97432475 |
+| [1, 2, 3, 4, 5, 0, 7, 8, 6] | 39 | 1.96527501 | 39 | 0.10016849 | 39 | 0.07475672 | 39 | 16.24122037 |
+| [1, 2, 3, 4, 0, 5, 7, 8, 6] | 39 | 1.58071910 | 39 | 0.07319126 | 39 | 0.05001318 | 39 | 16.16284472 |
+| [8, 6, 7, 2, 5, 4, 1, 3, 0] | -1 |     -1     | -1 |     -1     | -1 |     -1     | -1 |      -1     |
+| [1, 2, 0, 4, 8, 3, 7, 6, 5] | 39 | 1.14398351 | 39 | 0.06371826 | 39 | 0.04972849 | 39 | 15.88866231 |
+| [1, 0, 2, 4, 6, 3, 7, 5, 8] | 39 | 0.32820838 | 39 | 0.02033010 | 39 | 0.01650575 | 39 | 11.73351975 |
+| [1, 2, 3, 4, 6, 5, 7, 8, 0] | -1 |     -1     | -1 |     -1     | -1 |     -1     | -1 |      -1     |
+| [0, 1, 2, 4, 5, 3, 7, 8, 6] | 39 | 2.17892338 | 39 | 0.11925577 | 39 | 0.10758060 | 39 | 15.70272747 |
+| [1, 2, 3, 4, 5, 6, 7, 8, 0] | 39 | 2.59542697 | 39 | 0.12648465 | 39 | 0.10154870 | 39 | 17.83437242 |
+| [7, 0, 2, 8, 5, 3, 6, 4, 1] | -1 |     -1     | -1 |     -1     | -1 |     -1     | -1 |      -1     |
+| [8, 1, 2, 0, 4, 3, 7, 6, 5] | -1 |     -1     | -1 |     -1     | -1 |     -1     | -1 |      -1     |
+| [1, 2, 3, 0, 4, 8, 7, 6, 5] | 39 | 3.41588316 | 39 | 0.19684434 | 39 | 0.20537008 | 39 | 15.72081487 |
+| [1, 2, 3, 0, 4, 5, 7, 8, 6] | 39 | 0.94715350 | 39 | 0.04507575 | 39 | 0.02909580 | 39 | 13.79254703 |
+| [1, 0, 3, 2, 4, 5, 6, 7, 8] | -1 |     -1     | -1 |     -1     | -1 |     -1     | -1 |      -1     |
++-----------------------------+----+------------+----+------------+----+------------+----+-------------+
+IDA*
++-----------------------------+----+------------+----+-------------+----+--------------+----+-------------+
+|          Start IDA*         | N0 |     t0     | N1 |      t1     | N2 |      t2      | N3 |      t3     |
++-----------------------------+----+------------+----+-------------+----+--------------+----+-------------+
+| [3, 1, 2, 4, 0, 5, 6, 7, 8] | 10 | 0.00022592 | 10 |  0.00021800 | 10 |  0.00025725  | 10 |  0.00117420 |
+| [1, 2, 0, 4, 8, 3, 7, 6, 5] | 28 | 1.18621707 | 28 |  1.76509812 | 28 | 26.63045239  | 28 |  0.79611658 |
+| [1, 3, 5, 7, 2, 6, 8, 0, 4] | 30 | 1.45959460 | 30 |  2.72914703 | 30 | 63.31747508  | 30 |  0.65905786 |
+| [1, 2, 3, 4, 6, 5, 7, 8, 0] | -1 |     -1     | -1 |      -1     | -1 |      -1      | -1 |      -1     |
+| [0, 4, 1, 5, 3, 2, 7, 8, 6] | 30 | 1.64454527 | 34 |  5.37690712 | 34 | 165.04616852 | 34 |  0.90202970 |
+| [8, 6, 7, 2, 5, 4, 1, 3, 0] | -1 |     -1     | -1 |      -1     | -1 |      -1      | -1 |      -1     |
+| [1, 4, 3, 7, 0, 8, 6, 5, 2] | 34 | 1.01240193 | 34 |  1.43934710 | 34 |  6.61842412  | 34 |  0.89474859 |
+| [6, 0, 8, 4, 3, 5, 1, 2, 7] | 34 | 2.94737913 | 34 |  1.73855718 | 34 | 29.04872442  | 34 |  2.63117403 |
+| [2, 0, 8, 1, 3, 5, 4, 6, 7] | 34 | 0.21768334 | 34 |  0.08873737 | 34 |  0.31426391  | 34 |  0.13959156 |
+| [1, 0, 3, 2, 4, 5, 6, 7, 8] | -1 |     -1     | -1 |      -1     | -1 |      -1      | -1 |      -1     |
+| [8, 7, 2, 1, 5, 0, 4, 6, 3] | 34 | 3.03257470 | 39 | 10.04505874 | 39 | 359.84012511 | 39 | 15.04397236 |
+| [6, 3, 8, 5, 4, 1, 7, 2, 0] | 39 | 1.61184448 | 39 |  1.61504128 | 39 | 33.38959117  | 39 |  2.43032827 |
+| [4, 1, 2, 3, 0, 6, 5, 7, 8] | 39 | 1.37640290 | 39 |  2.70666649 | 39 | 51.69246632  | 39 |  4.05774473 |
+| [1, 2, 3, 4, 5, 6, 7, 8, 0] | 39 | 1.79246634 | 39 |  7.88604425 | 39 | 232.78805638 | 39 |  1.47507325 |
+| [1, 3, 6, 5, 2, 8, 4, 0, 7] | 39 | 2.95919466 | 39 |  7.94529886 | 39 | 273.79163340 | 39 |  0.39802402 |
+| [1, 8, 5, 0, 2, 4, 3, 6, 7] | 39 | 0.53886985 | 39 |  0.32652876 | 39 |  3.02122611  | 39 |  0.09736517 |
+| [5, 3, 6, 4, 0, 7, 1, 8, 2] | 39 | 2.86084209 | 39 |  4.04018089 | 39 | 24.31634789  | 39 |  0.10116328 |
+| [1, 2, 3, 4, 5, 0, 7, 8, 6] | 39 | 1.68076651 | 39 |  6.57481090 | 39 | 183.87465976 | 39 |  1.09762525 |
+| [7, 0, 2, 8, 5, 3, 6, 4, 1] | -1 |     -1     | -1 |      -1     | -1 |      -1      | -1 |      -1     |
+| [0, 1, 2, 4, 5, 3, 7, 8, 6] | 39 | 1.91433713 | 39 | 10.88588089 | 39 | 296.08508099 | 39 | 12.29244722 |
+| [1, 2, 3, 4, 0, 5, 7, 8, 6] | 39 | 1.36795751 | 39 |  4.85078917 | 39 | 124.41268015 | 39 |  7.14885411 |
+| [1, 2, 3, 0, 4, 5, 7, 8, 6] | 39 | 0.90215369 | 39 |  0.35455519 | 39 |  2.07355041  | 39 |  0.57225562 |
+| [4, 3, 1, 0, 7, 2, 8, 5, 6] | 39 | 0.72276964 | 39 |  1.80561544 | 39 |  3.68258140  | 39 |  0.06184927 |
+| [1, 6, 4, 0, 3, 5, 8, 2, 7] | 39 | 1.94948593 | 39 |  2.45946815 | 39 | 37.78323441  | 39 |  2.84720888 |
+| [3, 4, 6, 2, 0, 8, 1, 7, 5] | 39 | 2.88921335 | 39 |  4.26877734 | 39 | 73.13384019  | 39 |  4.36466623 |
+| [1, 2, 3, 0, 4, 8, 7, 6, 5] | 39 | 2.36596775 | 39 |  1.43187188 | 39 | 20.32376594  | 39 |  1.92799334 |
+| [0, 4, 3, 2, 1, 6, 7, 5, 8] | 39 | 2.53414340 | 39 |  4.00869156 | 39 | 102.10481882 | 39 |  6.15688130 |
+| [8, 1, 2, 0, 4, 3, 7, 6, 5] | -1 |     -1     | -1 |      -1     | -1 |      -1      | -1 |      -1     |
+| [1, 0, 2, 4, 6, 3, 7, 5, 8] | 39 | 0.46668315 | 39 |  1.89515738 | 39 | 33.69497854  | 39 |  2.75250115 |
+| [6, 5, 3, 4, 1, 7, 0, 2, 8] | 39 | 4.29567293 | 39 |  6.42287127 | 39 | 167.10238073 | 39 |  7.87676348 |
+| [6, 4, 7, 8, 5, 0, 3, 2, 1] | 39 | 3.04172373 | 39 |  5.23823269 | 39 | 195.65455071 | 39 |  0.27365738 |
+| [5, 2, 1, 4, 8, 3, 7, 6, 0] | 39 | 3.25987760 | 39 |  7.77450474 | 39 | 265.23596379 | 39 |  1.32458905 |
+| [4, 8, 7, 5, 3, 1, 0, 6, 2] | 39 | 2.33121600 | 39 |  1.40017213 | 39 | 39.56823937  | 39 |  0.05670114 |
+| [8, 3, 5, 6, 4, 2, 1, 0, 7] | 39 | 2.21527330 | 39 |  5.45081104 | 39 | 149.34345633 | 39 |  7.93359656 |
+| [7, 4, 3, 2, 8, 6, 0, 5, 1] | 39 | 2.64620719 | 39 |  6.15746936 | 39 | 235.94325016 | 39 |  0.92651821 |
+| [8, 6, 7, 2, 0, 4, 3, 5, 1] | 39 | 3.34223387 | 39 |  9.97582106 | 39 | 382.20616752 | 39 |  0.84931198 |
+| [0, 4, 3, 2, 1, 6, 7, 5, 8] | 39 | 2.66662816 | 39 |  4.12810618 | 39 | 108.52898368 | 39 |  6.04419354 |
+| [1, 2, 3, 4, 5, 0, 7, 8, 6] | 39 | 1.67587210 | 39 |  6.08372335 | 39 | 179.65024711 | 39 |  1.08590094 |
+| [1, 2, 3, 4, 0, 5, 7, 8, 6] | 39 | 1.23066501 | 39 |  4.63301563 | 39 | 121.48032202 | 39 |  7.09913538 |
+| [8, 6, 7, 2, 5, 4, 1, 3, 0] | -1 |     -1     | -1 |      -1     | -1 |      -1      | -1 |      -1     |
+| [1, 2, 0, 4, 8, 3, 7, 6, 5] | 39 | 1.13844423 | 39 |  1.75628105 | 39 | 25.69064542  | 39 |  0.62895389 |
+| [1, 0, 2, 4, 6, 3, 7, 5, 8] | 39 | 0.55487725 | 39 |  1.90937736 | 39 | 33.48617017  | 39 |  2.77442414 |
+| [1, 2, 3, 4, 6, 5, 7, 8, 0] | -1 |     -1     | -1 |      -1     | -1 |      -1      | -1 |      -1     |
+| [0, 1, 2, 4, 5, 3, 7, 8, 6] | 39 | 1.85357404 | 39 | 10.21510852 | 39 | 373.50664764 | 39 | 14.53592644 |
+| [1, 2, 3, 4, 5, 6, 7, 8, 0] | 39 | 1.73513545 | 39 |  7.97322167 | 39 | 226.76123054 | 39 |  1.36926909 |
+| [7, 0, 2, 8, 5, 3, 6, 4, 1] | -1 |     -1     | -1 |      -1     | -1 |      -1      | -1 |      -1     |
+| [8, 1, 2, 0, 4, 3, 7, 6, 5] | -1 |     -1     | -1 |      -1     | -1 |      -1      | -1 |      -1     |
+| [1, 2, 3, 0, 4, 8, 7, 6, 5] | 39 | 2.19080933 | 39 |  1.38792584 | 39 | 19.77927678  | 39 |  1.91302866 |
+| [1, 2, 3, 0, 4, 5, 7, 8, 6] | 39 | 0.81664424 | 39 |  0.34060505 | 39 |  1.93568368  | 39 |  0.46379428 |
+| [1, 0, 3, 2, 4, 5, 6, 7, 8] | -1 |     -1     | -1 |      -1     | -1 |      -1      | -1 |      -1     |
++-----------------------------+----+------------+----+-------------+----+--------------+----+-------------+
